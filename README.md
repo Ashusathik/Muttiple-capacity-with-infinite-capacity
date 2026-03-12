@@ -14,12 +14,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
-## Experiment:
-
-![image](https://github.com/user-attachments/assets/7f08ea5a-a0ce-4692-83a7-389534718a97)
-
-![image](https://github.com/user-attachments/assets/ea17b1b6-e48c-4da3-83f6-71f2ebcc3770)
-
+## NAME : ASHRATHI S
+## REGISTER NUMBER : 212224230025
 
 ## Program
 
